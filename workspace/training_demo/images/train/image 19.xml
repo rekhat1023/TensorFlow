@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image 19.jpg</filename>
+	<path>C:\Users\user\Documents\TensorFlow\workspace\training_demo\images\image 19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>393</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>VEG</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>228</ymin>
+			<xmax>369</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>
