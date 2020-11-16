@@ -3,7 +3,3 @@ item {
     name: 'veg'
 }
 
-item {
-    id: 2
-    name: 'non-veg'
-}
